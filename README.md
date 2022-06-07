@@ -1,2 +1,2 @@
 # AI-radio
-it is a music playing application embedded with virtual assistant
+it is a flutter music playing application embedded with virtual assistant
